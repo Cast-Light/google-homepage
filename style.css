@@ -1,0 +1,24 @@
+/* ELEMENTS */
+
+/* CLASSES */
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+.temp_border {
+    border: 3px solid black;
+}
+
+/* IDs */
+
+#google_logo {
+    height: 170px;
+    width: 320px;
+}
+
+#middle_page {
+    margin-top: 250px;
+    padding: 50px;
+}
