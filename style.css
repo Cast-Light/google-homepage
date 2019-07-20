@@ -1,5 +1,9 @@
 /* ELEMENTS */
 
+div {
+    margin: 10px;
+}
+
 /* CLASSES */
 
 .center {
@@ -7,18 +11,17 @@
     width: 50%;
 }
 
-.temp_border {
-    border: 3px solid black;
-}
+.border {
+    border: 2px solid black;
 
 /* IDs */
 
 #google_logo {
-    height: 170px;
-    width: 320px;
+    height: 92px;
+    width: 272px:
 }
 
-#middle_page {
-    margin-top: 250px;
-    padding: 50px;
+#app-grid {
+    height: 30px;
+    width: 30px;
 }
