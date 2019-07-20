@@ -24,6 +24,9 @@ div {
     font-size: 13px;
     text-decoration: none;
     color: #242424;
+    font-family: arial, sans-serif;
+    margin: auto;
+    line-height: 24px;
 }
 
 /************************************ IDs ***********************************************/
@@ -31,9 +34,21 @@ div {
 #google_logo {
     height: 92px;
     width: 272px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #voice {
     height: 24px;
     width: 24px;
+}
+
+#def_user_photo {
+    border-radius: 50%;
+}
+
+#text_input {
+    flex: 1;
+    display: flex;
 }
