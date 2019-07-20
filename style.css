@@ -1,19 +1,10 @@
-
+/********************************** ELEMENTS ********************************************/
 
 div {
     margin: 10px;
 }
 
-#google_logo {
-    height: 92px;
-    width: 272px;
-}
-
-#app_grid {
-    height: 30px;
-    width: 30px;
-}
-
+/********************************** CLASSES ********************************************/
 
 .center {
     margin: auto;
@@ -22,4 +13,27 @@ div {
 
 .border {
     border: 2px solid black;
+}
+
+.google_plus {
+    height: 30px;
+    width: 30px;
+}
+
+.link {
+    font-size: 13px;
+    text-decoration: none;
+    color: #242424;
+}
+
+/************************************ IDs ***********************************************/
+
+#google_logo {
+    height: 92px;
+    width: 272px;
+}
+
+#voice {
+    height: 24px;
+    width: 24px;
 }
