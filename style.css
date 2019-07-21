@@ -26,7 +26,10 @@ div {
     color: #242424;
     font-family: arial, sans-serif;
     margin: auto;
-    line-height: 24px;
+}
+
+.button {
+    margin: 20px;
 }
 
 /************************************ IDs ***********************************************/
@@ -48,7 +51,15 @@ div {
     border-radius: 50%;
 }
 
-#text_input {
+#web_search {
     flex: 1;
     display: flex;
+}
+
+#bot_nav_bar {
+    background-color: #E9E8E8;
+    padding: 15px;
+    border-top: 1px solid #e4e4e4;
+    min-width: 980px;
+    width: 2180px;
 }
